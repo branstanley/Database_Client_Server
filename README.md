@@ -1,0 +1,4 @@
+# Database_Client_Server
+A Database program created for an Engineering class.  Created by myself and a team of two others (John Simko and Shahood Mirza).  The project was to create a Client Server system in which a Database (created by us) was to be accessed.  The Client, Server, and Database were written in C++ while the GUI was written in C# and accessed the Client connection through a CLR/C++ Wrapper class.  The project works in full.  This upload is just a copy of the finished project (all Source Control had to be using SVN) and inolved over 100 commits.
+
+The "deps" folder contains all the help files for this project.  It is an unfortunate name, but it currently serves the purpose of hiding the .html from the help docs from the languistics tool used by GitHub.  A better name to come eventually.
