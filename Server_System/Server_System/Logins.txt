@@ -1,0 +1,4 @@
+John Smith	testtest	1
+Abba	Braille Rawks	0
+Ash Ketchum	Pikachu	0
+Billy	WOOT	1

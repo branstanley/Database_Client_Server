@@ -1,0 +1,20 @@
+#Filename of the input data set
+./Finalized Data Set.csv
+#Filename of preexisting logins
+./Logins.txt
+#Maximum allowed simultaneous client connections
+8
+#default port number
+6222
+#default buffer length
+1020
+#Data set row delimiter. newline if left blank.
+
+#Data set column delimiter.
+	
+#The following are all Attributes you want to prevent deletion of.
+ID
+Document Title
+Authors
+Publication Date
+Keywords
