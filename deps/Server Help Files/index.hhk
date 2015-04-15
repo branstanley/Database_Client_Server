@@ -1,0 +1,93 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_resource.html#aca6598a3590290e0a7bae175ecb0d78a"><param name="Name" value="addAttribute"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_resource.html#aca6598a3590290e0a7bae175ecb0d78a"><param name="Name" value="Resource"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#a88b1a649148005a4184dbde2fc39dc87"><param name="Name" value="ServerSystem"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#aedbb60f947d36d391dc4c02eeebe2dc1"><param name="Name" value="addNewLogin"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#a319f1da3fa4a2602139073b56e5f27e4"><param name="Name" value="addNewResource"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#a47b6bcdc5c44d837da5aa6c534409921"><param name="Name" value="COL_DELIM"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_login.html#a723a6adee69e8163dca42c885ef19e45"><param name="Name" value="comparePassword"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#ac41191a5bc604790de94c7baab51cc8b"><param name="Name" value="DEFAULT_BUFLEN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#a5a1dd4c3057aba986861e3b7254278f3"><param name="Name" value="DEFAULT_PORT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#a549a5c9da56c2591ac9c3d54250de3a2"><param name="Name" value="export"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_side_connection_to_client.html#aa6aa22832c7319bec5127f89e6fc1c0f"><param name="Name" value="filter"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_login.html#a3b13dd1d5f0ba284918f687c6b763fbc"><param name="Name" value="getAdmin"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#a74d8f81d88fa04abb9d1e1c8727aab3d"><param name="Name" value="getAttributeList"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_resource.html#abd81a3f6ee914b573d0cf27f3aba7198"><param name="Name" value="getAttributeValue"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#a75cec4380dc6f9c830b0a3535c1fdd9e"><param name="Name" value="getListOfLogins"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_login.html#affa12ab82d6dfe85ddf7e5651c10271a"><param name="Name" value="getName"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_resource.html#a68be2b1662ff199a15201c24656e26a3"><param name="Name" value="getResourceId"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#a512379e28af7d2cc22a589f8a0e596c6"><param name="Name" value="LINE_DELIM"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_login.html"><param name="Name" value="Login"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_login.html#a723a6adee69e8163dca42c885ef19e45"><param name="Name" value="comparePassword"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_login.html#a3b13dd1d5f0ba284918f687c6b763fbc"><param name="Name" value="getAdmin"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_login.html#affa12ab82d6dfe85ddf7e5651c10271a"><param name="Name" value="getName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_login.html#ae7dd2a76c32c7678f15008f5809f4bd9"><param name="Name" value="Login"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#aa097afcc3408132a0e2a20c49f2125ec"><param name="Name" value="login"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#abb121fc3bdc6b3cf7582739918c8ab6d"><param name="Name" value="modifyResource"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#af6f1ca1c152263f13df9fe3a098836d3"><param name="Name" value="parseStrToVector"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_resource.html#ab66955434a029de9f10073a9c8d3dc5e"><param name="Name" value="removeAttribute"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_resource.html#ab66955434a029de9f10073a9c8d3dc5e"><param name="Name" value="Resource"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#afd3e7f841460bd57351164ccc56eab27"><param name="Name" value="ServerSystem"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#a49e3a57e98bdc436255efd35f46d6d15"><param name="Name" value="removeLogin"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#aac69daa0569818487160892907f2cf52"><param name="Name" value="removeResource"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_resource.html"><param name="Name" value="Resource"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_resource.html#aca6598a3590290e0a7bae175ecb0d78a"><param name="Name" value="addAttribute"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_resource.html#abd81a3f6ee914b573d0cf27f3aba7198"><param name="Name" value="getAttributeValue"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_resource.html#a68be2b1662ff199a15201c24656e26a3"><param name="Name" value="getResourceId"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_resource.html#ab66955434a029de9f10073a9c8d3dc5e"><param name="Name" value="removeAttribute"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_resource.html#adfe1f34671324e9816263da7270d1b6f"><param name="Name" value="Resource"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_resource.html#a34a01bd2c1e1a47ba9df667b32c98e66"><param name="Name" value="serializeValues"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_resource.html#a61e663bef4f06618bd8272098dc97052"><param name="Name" value="setNewValues"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_side_connection_to_client.html#a06e0597cbf48ff81a1ebe9e1da898762"><param name="Name" value="run"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_side_connection_to_client.html#a06e0597cbf48ff81a1ebe9e1da898762"><param name="Name" value="ServerSideConnectionToClient"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#a9434a901de51b641c3da89abd4107af4"><param name="Name" value="ServerSystem"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#a0db29fd3e754fb1747d1cd1dcd265dff"><param name="Name" value="search"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_resource.html#a34a01bd2c1e1a47ba9df667b32c98e66"><param name="Name" value="serializeValues"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_side_connection_to_client.html"><param name="Name" value="ServerSideConnectionToClient"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_side_connection_to_client.html#aa6aa22832c7319bec5127f89e6fc1c0f"><param name="Name" value="filter"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_side_connection_to_client.html#a06e0597cbf48ff81a1ebe9e1da898762"><param name="Name" value="run"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_side_connection_to_client.html#a3ebd045a8fe602eb1190e22c1dc22c33"><param name="Name" value="ServerSideConnectionToClient"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_side_connection_to_client.html#ad5e7b4107413b008a3234fe13ac7d811"><param name="Name" value="sort"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html"><param name="Name" value="ServerSystem"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#a88b1a649148005a4184dbde2fc39dc87"><param name="Name" value="addAttribute"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#aedbb60f947d36d391dc4c02eeebe2dc1"><param name="Name" value="addNewLogin"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#a319f1da3fa4a2602139073b56e5f27e4"><param name="Name" value="addNewResource"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#a47b6bcdc5c44d837da5aa6c534409921"><param name="Name" value="COL_DELIM"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#ac41191a5bc604790de94c7baab51cc8b"><param name="Name" value="DEFAULT_BUFLEN"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#a5a1dd4c3057aba986861e3b7254278f3"><param name="Name" value="DEFAULT_PORT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#a549a5c9da56c2591ac9c3d54250de3a2"><param name="Name" value="export"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#a74d8f81d88fa04abb9d1e1c8727aab3d"><param name="Name" value="getAttributeList"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#a75cec4380dc6f9c830b0a3535c1fdd9e"><param name="Name" value="getListOfLogins"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#a512379e28af7d2cc22a589f8a0e596c6"><param name="Name" value="LINE_DELIM"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#aa097afcc3408132a0e2a20c49f2125ec"><param name="Name" value="login"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#abb121fc3bdc6b3cf7582739918c8ab6d"><param name="Name" value="modifyResource"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#af6f1ca1c152263f13df9fe3a098836d3"><param name="Name" value="parseStrToVector"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#afd3e7f841460bd57351164ccc56eab27"><param name="Name" value="removeAttribute"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#a49e3a57e98bdc436255efd35f46d6d15"><param name="Name" value="removeLogin"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#aac69daa0569818487160892907f2cf52"><param name="Name" value="removeResource"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#a9434a901de51b641c3da89abd4107af4"><param name="Name" value="run"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_system.html#a0db29fd3e754fb1747d1cd1dcd265dff"><param name="Name" value="search"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_resource.html#a61e663bef4f06618bd8272098dc97052"><param name="Name" value="setNewValues"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_server_side_connection_to_client.html#ad5e7b4107413b008a3234fe13ac7d811"><param name="Name" value="sort"></OBJECT>
+</UL>
+</BODY>
+</HTML>
